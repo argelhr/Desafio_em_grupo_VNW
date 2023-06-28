@@ -1,0 +1,18 @@
+# Projeto de Desafio em Grupo: Tema de Inverno
+Este é o repositório do projeto de desafio em grupo com o tema de inverno do VAI NA WEB🥶❄❄
+Neste desafio, nossa equipe trabalhou em conjunto para criar uma aplicação relacionada ao inverno, explorando conceitos e recursos específicos das propriedades de display flex.
+
+## Membros do grupo
+
+@
+
+### Sobre o Projeto
+O objetivo deste projeto foi desenvolver uma tela sendo baseada em uma tela base fornecedida atraves do figma  que capturava a essência do inverno. Cada membro da equipe contribuiu com suas habilidades e conhecimentos para o sucesso do projeto.
+
+### Tecnologias Utilizadas
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+HTML
+CSS
+
+
