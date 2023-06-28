@@ -4,7 +4,13 @@ Neste desafio, nossa equipe trabalhou em conjunto para criar uma aplicação rel
 
 ## Membros do grupo
 
-@
+- [@DANILLOAUGUSTO](https://github.com/DANILLOAUGUSTO)
+- [@hivitoria](https://github.com/hivitoria)
+- [@NandaCorreaa](https://github.com/NandaCorreaa)
+- [@Solaracah](https://github.com/Solaracah)
+- [@tassiofeliperj](https://github.com/tassiofeliperj)
+- [@viniciusanndre](https://github.com/viniciusanndre)
+- [Kelly-Felix] Aguardando pc para conseguir criar/utilizar o github
 
 ### Sobre o Projeto
 O objetivo deste projeto foi desenvolver uma tela sendo baseada em uma tela base fornecedida atraves do figma  que capturava a essência do inverno. Cada membro da equipe contribuiu com suas habilidades e conhecimentos para o sucesso do projeto.
