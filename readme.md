@@ -23,6 +23,7 @@ O objetivo deste projeto foi desenvolver uma tela sendo baseada em uma tela base
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 HTML
+
 CSS
 
 
