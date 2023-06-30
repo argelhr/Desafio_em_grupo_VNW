@@ -103,9 +103,9 @@ a:hover{
     width: 265px;
 }
 
-img:hover{
+/* img:hover{
     border: 1px darkblue groove
-}
+} */
 
 footer section {
     display: flex;
