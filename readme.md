@@ -2,6 +2,10 @@
 Este é o repositório do projeto de desafio em grupo com o tema de inverno do VAI NA WEB🥶❄❄
 Neste desafio, nossa equipe trabalhou em conjunto para criar uma aplicação relacionada ao inverno, explorando conceitos e recursos específicos das propriedades de display flex.
 
+## Visualização do Projeto
+O projeto foi hospedado no netlify e você pode visualizá-lo através do seguinte link:
+https://desafiovnwinvernoemgrupo.netlify.app/
+
 ## Membros do grupo
 
 - [@DANILLOAUGUSTO](https://github.com/DANILLOAUGUSTO)
